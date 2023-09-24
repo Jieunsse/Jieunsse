@@ -10,6 +10,7 @@ I'm studyding React, and typeScript nowadays.<br><br>Wanna be a marvlous FE deve
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jieunsse&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jieunsse&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<br>
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jieunsse) 
 
