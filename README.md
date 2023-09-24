@@ -15,6 +15,9 @@ I'm studyding React, and typeScript nowadays.<br><br>Wanna be a marvlous FE deve
 
 <br>
 
+# 💯 Solved.ac Profile: 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jieunsse)](https://solved.ac/jieunsse/)
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jieunsse) 
 
