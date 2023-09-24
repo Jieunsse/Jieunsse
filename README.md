@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently studying in Daejin Univ.<br>And also GDSC DJU Core Member.<br><br>I'm studyding React, and typeScript these adays.<br><br>Wanna be a marvlous FE developer.
+I'm studyding React, and typeScript nowadays.<br><br>Wanna be a marvlous FE developer.
 
 
 ## 🌐 Socials:
