@@ -40,7 +40,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-205%20hrs%2032%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-286-blue)
+[![](https://visitcount.itsvg.in/api?id=Jayden&label=Profile%20Views&color=3&icon=2&pretty=true)](https://visitcount.itsvg.in)
 
 **I'm an Early 🐤** 
 
