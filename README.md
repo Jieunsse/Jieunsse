@@ -31,7 +31,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jieunsse) 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=jieunsse&icon=0&color=0)](https://visitcount.itsvg.in)
+
+[![](https://visitcount.itsvg.in/api?id=Jayden&label=Profile%20Views&color=3&icon=7&pretty=true)](https://visitcount.itsvg.in)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
@@ -40,7 +41,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-205%20hrs%2032%20mins-blue)
 
-[![](https://visitcount.itsvg.in/api?id=Jayden&label=Profile%20Views&color=3&icon=2&pretty=true)](https://visitcount.itsvg.in)
+
 
 **I'm an Early 🐤** 
 
