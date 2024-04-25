@@ -57,15 +57,16 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     1 hr 4 mins         █████████████████████████   99.84 % 
+GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Intellijidea             1 hr 4 mins         █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 hr 4 mins         █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 24/04/2024 18:34:57 UTC
+ Last Updated on 25/04/2024 18:35:30 UTC
 <!--END_SECTION:waka-->
