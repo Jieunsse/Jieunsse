@@ -51,15 +51,15 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               5 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-WebStorm                 5 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      5 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 13/06/2024 18:38:36 UTC
+ Last Updated on 14/06/2024 18:38:35 UTC
 <!--END_SECTION:waka-->
