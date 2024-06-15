@@ -33,8 +33,6 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-476%20hrs%2049%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **I'm a Night 🦉** 
@@ -51,15 +49,16 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Text                     0 secs              ██████████████████████░░░   86.87 % 
+JavaScript               0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   13.13 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+WebStorm                 0 secs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      0 secs              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 14/06/2024 18:38:35 UTC
+ Last Updated on 15/06/2024 18:36:53 UTC
 <!--END_SECTION:waka-->
