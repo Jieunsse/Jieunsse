@@ -51,16 +51,15 @@
 
 ```text
 💬 Programming Languages: 
-Text                     0 secs              ██████████████████████░░░   86.87 % 
-JavaScript               0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   13.13 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-WebStorm                 0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 21/06/2024 18:38:03 UTC
+ Last Updated on 22/06/2024 18:36:19 UTC
 <!--END_SECTION:waka-->
