@@ -4,7 +4,7 @@
  <li> 🏫 Daejin University - Computer Science </li>
  <li> 👀 I'm interested in Web development.</li>
  <li> 🧑🏻‍💻 GDSC DJU CORE MEMBER </li>
- <li> 🧪 PL lab member in Univ. </li>
+ <li> 🧪 PL laboratory leader in Univ. </li>
 </ul>
 
 
