@@ -55,6 +55,8 @@
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-584%20hrs%2057%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **I'm an Early 🐤** 
@@ -87,5 +89,5 @@ Mac                      3 hrs 4 mins        ███████████�
 ```
 
 
- Last Updated on 10/01/2025 18:43:39 UTC
+ Last Updated on 11/01/2025 18:40:41 UTC
 <!--END_SECTION:waka-->
