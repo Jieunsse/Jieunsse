@@ -13,14 +13,6 @@
 
 
 
-
-<br>
-
-# 💯 Solved.ac Profile: 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jieunsse)](https://solved.ac/jieunsse/)
-<br>
-
-
 ## 💻 Tech STACK
 
 
