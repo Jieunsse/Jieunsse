@@ -3,7 +3,7 @@
 <ul>
  <li> 🏫 Daejin University - Computer Science </li>
  <li> 👀 I'm interested in Web development.</li>
- <li> 🧑🏻‍💻 GDSC DJU CORE MEMBER </li>
+ <li> 🧑🏻‍💻 GDGOC DJU CORE MEMBER </li>
  <li> 🧪 Programming Language laboratory leader in Univ. </li>
 </ul>
 
