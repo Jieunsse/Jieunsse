@@ -31,7 +31,8 @@
 
 ## 🏆 My Programmers Rank
 
-![Programmers Rank](https://jieunsse.github.io/github-programmers-rank/lib/result.svg)
+![Programmers Rank](https://raw.githubusercontent.com/Jieunsse/github-programmers-rank/master/lib/result.svg)
+
 
 
 
