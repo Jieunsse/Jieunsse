@@ -1,10 +1,9 @@
 # 💫 About Me:
 
 <ul>
- <li> 🏫 Daejin University - Computer Science </li>
- <li> 👀 I'm interested in Web development.</li>
- <li> 🧑🏻‍💻 GDGOC DJU CORE MEMBER </li>
- <li> 🧪 Programming Language laboratory leader in Univ. </li>
+ <li> 👀 웹 개발자가 되고 싶어요.</li>
+ <li> 🧑🏻‍💻 GDGOC DJU 팀 멤버(운영진) </li>
+ <li> 🧪 PL랩 소속 </li>
 </ul>
 
 
